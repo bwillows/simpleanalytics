@@ -1,0 +1,17 @@
+  html {
+    font-family: "Roboto", serif;
+    background-color: lightgray;
+  }
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  .inner {
+      background-color: white;
+      margin: 0 auto; 
+      width: 100%;
+      display: block;
+      max-width: 450px;
+      margin-left: 0 auto !important;
+      margin-right: 0 auto !important;
+  }
